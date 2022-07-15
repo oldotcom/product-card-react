@@ -10,6 +10,7 @@ const product = {
     "category": "laptops",
     "brand": "acer"
   };
+
 class Card extends React.Component {
 
   render() {
